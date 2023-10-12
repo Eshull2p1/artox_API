@@ -1,0 +1,35 @@
+API 
+31f731683c10138bb8a9574aa685d45e
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat={lat}&lon={lon}&appid={API key}
+
+1. cnx
+18.794192881594455, 98.99688515959318
+30d
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat=18.794192881594455&lon=98.99688515959318&appid=31f731683c10138bb8a9574aa685d45e
+5d
+api.openweathermap.org/data/2.5/forecast?lat=18.794192881594455&lon=98.99688515959318&appid=31f731683c10138bb8a9574aa685d45e
+
+2. bkk
+13.761731333358194 , 100.5094303938846
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat=13.761731333358194&lon=100.5094303938846&appid={API key}
+api.openweathermap.org/data/2.5/forecast?lat=13.761731333358194&lon=100.5094303938846&appid=31f731683c10138bb8a9574aa685d45e
+
+3.konken
+16.422623378751048, 102.80728537016337
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat=16.422623378751048&lon=102.80728537016337&appid={API key}
+api.openweathermap.org/data/2.5/forecast?lat=16.422623378751048&lon=102.80728537016337&appid=31f731683c10138bb8a9574aa685d45e
+
+4.hatyai
+7.002721508889696, 100.46683316451573
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat={lat}&lon={lon}&appid={API key}
+api.openweathermap.org/data/2.5/forecast?lat=7.002721508889696&lon=100.46683316451573&appid=31f731683c10138bb8a9574aa685d45e
+
+5.puket
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat={lat}&lon={lon}&appid={API key}
+7.875575551398494, 98.39905420064065
+api.openweathermap.org/data/2.5/forecast?lat=7.875575551398494&lon=98.39905420064065&appid=31f731683c10138bb8a9574aa685d45e
+
+6.pattaya
+https://pro.openweathermap.org/data/2.5/forecast/climate?lat={lat}&lon={lon}&appid={API key}
+12.928722878730996, 100.88548442439733
+api.openweathermap.org/data/2.5/forecast?lat=12.928722878730996&lon=100.88548442439733&appid=31f731683c10138bb8a9574aa685d45e
